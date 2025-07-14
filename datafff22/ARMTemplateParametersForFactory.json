@@ -23,6 +23,9 @@
 		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
+		"AzureBlobStorage4_connectionString": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://sanjai08.dfs.core.windows.net/"
 		},
