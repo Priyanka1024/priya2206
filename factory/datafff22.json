@@ -1,0 +1,9 @@
+{
+	"name": "datafff22",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1059b32e-6519-4ea9-b3d3-0ddc5c8a7c05",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
