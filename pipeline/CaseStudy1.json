@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "CaseStudy1",
 	"properties": {
 		"activities": [
 			{
@@ -44,6 +44,7 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
+							"wildcardFileName": "*",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
